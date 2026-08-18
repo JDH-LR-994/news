@@ -5,9 +5,9 @@ A modern Android news application built with Jetpack Compose. Search articles by
 ## Screenshots
 
 <p>
-  <img src="screenshots/search.jpeg" alt="Search & Subscriptions" />
-  <img src="screenshots/settings.jpeg" alt="Settings" />
-  <img src="screenshots/articles.jpeg" alt="Article" />
+  <img src="screenshots/search.jpeg" width="24%" alt="Search & Subscriptions" />
+  <img src="screenshots/settings.jpeg" width="24%" alt="Settings" />
+  <img src="screenshots/articles.jpeg" width="24%" alt="Article" />
 </p>
 
 ## Tech Stack
